@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmad+Falahi;Web+Developer;IT+Student+%40+Politeknik+Negeri+Malang" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmad+Falahi;Web+Developer;IT+Student+%40+Polinema" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-falahi-8507a4313/">
