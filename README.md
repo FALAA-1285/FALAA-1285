@@ -21,7 +21,7 @@
 I am an **Information Technology Undergraduate at Politeknik Negeri Malang**, passionate about building clean, responsive, and user-friendly websites. I enjoy turning ideas into well-structured web applications.
 
 - Specializing in **Web Development**
-- Currently learning: **Flutter** and **Django**
+- Currently learning: **Mobile Development (Flutter & Dart), Django, Machine Learning, and Computer Vision**
 - Open to: **Internships, freelance projects, and collaborations**
 - Based in **Malang, Indonesia**
 
