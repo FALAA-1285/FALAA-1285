@@ -29,24 +29,15 @@ I am an **Information Technology Undergraduate at Politeknik Negeri Malang**, pa
 
 ### Tech Stack & Tools
 
-<table>
-  <tr>
-    <td width="160"><b>Frontend & Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,dart,flutter" alt="Frontend & Mobile" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,django,java" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td><b>Database & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" alt="Database & Cloud" /></td>
-  </tr>
-  <tr>
-    <td><b>Design & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Design & Tools" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,java&perline=9" alt="Web stack"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,figma,git,github,vscode&perline=9" alt="Mobile, database & tools"/>
+</p>
+<p align="center"><b>Now exploring</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,django,flutter,dart" alt="Machine Learning & Computer Vision"/>
+</p>
 
 ---
 
